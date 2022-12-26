@@ -7,6 +7,6 @@ public class Main {
 
         countOfMiles = pricePerTicket/costPerMile; // Рассчитывает количество бонусных миль
 
-        System.out.println(countOfMiles + " миллилитров воды"); //Вывод результата на экран
+        System.out.println(countOfMiles + " бонусных миль"); //Вывод результата на экран
     }
 }
